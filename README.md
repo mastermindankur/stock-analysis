@@ -4,10 +4,12 @@ This is my work where my intent is to do an analysis of the Support and Resistan
 
 **The Resistance**
 ![Resistance](https://zerodha.com/varsity/wp-content/uploads/2014/10/M2-Ch11-title1.jpg)
+
 As the name suggests, resistance is something which stops the price from rising further. The resistance level is a price point on the chart where traders expect maximum supply (in terms of selling) for the stock/index. The resistance level is always above the current market price. The likelihood of the price rising to the resistance level, consolidating, absorbing all the supply, and declining is high. The resistance is one of the critical technical analysis tools which market participants look at in a rising market. The resistance often acts as a trigger to sell.
 
 **The Support**
 ![Support](https://zerodha.com/varsity/wp-content/uploads/2014/10/M2-Ch11-title2.jpg)
+
 Having learnt about resistance, understanding the support level should be quite simple and intuitive. As the name suggests, support is something that prevents the price from falling further. The support level is a price point on the chart where the trader expects maximum demand (in terms of buying) coming into the stock/index. Whenever the price falls to the support line, it is likely to bounce back. The support level is always below the current market price. There is a maximum likelihood that the price could fall until the support, consolidate, absorb all the demand, and then start moving upwards. The support is one of the critical technical level market participants look for in a falling market. The support often acts as a trigger to buy.
 
 
