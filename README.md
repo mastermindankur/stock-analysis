@@ -10,7 +10,7 @@ Having learnt about resistance, understanding the support level should be quite 
 
 In this Repository.
 
-1. Calculate Support and Resistance for stocks in a date range.
+1. Calculate [Support and Resistance for stocks in a date range.](https://github.com/mastermindankur/stock-analysis/blob/main/Support_Resistance_Calculator.ipynb) 
 2. Determine the Buy and Sell Price.
 3. Do backtesting to see if this strategy was profitable or not.
 4. Find the [top performing stock in the BSE 100 list](https://github.com/mastermindankur/stock-analysis/blob/main/bse_top_100.ipynb)
